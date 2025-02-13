@@ -8,6 +8,13 @@
       "when": 1738181882373,
       "tag": "0000_violet_gunslinger",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1739472534770,
+      "tag": "0001_fixed_black_bolt",
+      "breakpoints": true
     }
   ]
 }
